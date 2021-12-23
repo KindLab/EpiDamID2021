@@ -11,6 +11,6 @@ The following jupyter notebooks with analyses are included:
 ## Custom scripts
 The following code is included:
 - enrichment_over_regions.py: Custom code to compute average signal over regions of interest. Losely based on the DeepTools functionalities (https://deeptools.readthedocs.io/en/develop/).
-- information_content.py: Custom code to compute the Information Content of DamID samples.
+- InformationContent.py: Custom code to compute the Information Content of DamID samples.
 
 Additional code is available upon request.
