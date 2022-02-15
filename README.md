@@ -1,4 +1,4 @@
-# EpiDamID2021
+# EpiDamID2022
 
 This repository contains key scripts and analyses accompanying the EpiDamID manuscript: [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.26.465688v1)
 
